@@ -127,7 +127,7 @@ const BookingsModule = () => {
                   </div>
                   <div>
                     <Label htmlFor="phone">Phone Number</Label>
-                    <Input id="phone" placeholder="+254712345678" />
+                    <Input id="phone" placeholder="+2547852595158" />
                   </div>
                 </div>
                 <div>

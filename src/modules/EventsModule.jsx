@@ -139,7 +139,7 @@ const EventsModule = () => {
                   </div>
                   <div>
                     <Label htmlFor="clientPhone">Phone</Label>
-                    <Input id="clientPhone" placeholder="+254712345678" />
+                    <Input id="clientPhone" placeholder="+2547852595158" />
                   </div>
                 </div>
                 <div className="grid grid-cols-3 gap-4">

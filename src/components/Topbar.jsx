@@ -136,7 +136,7 @@ const Topbar = ({ activeModule, darkMode, setDarkMode, sidebarCollapsed, setSide
               <DropdownMenuLabel>
                 <div className="flex flex-col space-y-1">
                   <p className="text-sm font-medium">Admin User</p>
-                  <p className="text-xs text-muted-foreground">admin@henribomaresort.com</p>
+                  <p className="text-xs text-muted-foreground">admin@thehenriboma.com</p>
                 </div>
               </DropdownMenuLabel>
               <DropdownMenuSeparator />

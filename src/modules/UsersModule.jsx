@@ -70,7 +70,7 @@ const UsersModule = () => {
       id: 'CUST001',
       name: 'Michael Johnson',
       email: 'michael.j@email.com',
-      phone: '+254712345678',
+      phone: '+2547852595158',
       totalBookings: 5,
       totalSpent: 285000,
       lastVisit: '2025-08-15',

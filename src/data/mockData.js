@@ -20,7 +20,7 @@ export const recentBookings = [
     checkOut: '2025-08-25',
     status: 'confirmed',
     amount: 75000,
-    phone: '+254712345678'
+    phone: '+2547852595158'
   },
   {
     id: 'BK002',
@@ -163,7 +163,7 @@ export const recentOrders = [
   {
     id: 'ORD001',
     customerName: 'Alice Muthoni',
-    customerPhone: '+254712345678',
+    customerPhone: '+2547852595158',
     items: [
       { name: 'Heritage Spring Rolls', quantity: 2, price: 1200 },
       { name: 'Nyama Choma Platter', quantity: 1, price: 2500 }
@@ -240,7 +240,7 @@ export const privateEventInquiries = [
     eventType: 'Wedding',
     clientName: 'Sarah & Michael',
     clientEmail: 'sarah.michael@email.com',
-    clientPhone: '+254712345678',
+    clientPhone: '+2547852595158',
     eventDate: '2025-09-15',
     guestCount: 150,
     budget: 500000,
@@ -364,7 +364,7 @@ export const users = [
   {
     id: 'user-1',
     username: 'admin',
-    email: 'admin@henribomaresort.com',
+    email: 'admin@thehenriboma.com',
     role: 'Administrator',
     status: 'active',
     lastLogin: '2025-08-20T09:00:00Z',
@@ -373,7 +373,7 @@ export const users = [
   {
     id: 'user-2',
     username: 'manager',
-    email: 'manager@henribomaresort.com',
+    email: 'manager@thehenriboma.com',
     role: 'Manager',
     status: 'active',
     lastLogin: '2025-08-20T08:30:00Z',
@@ -382,7 +382,7 @@ export const users = [
   {
     id: 'user-3',
     username: 'receptionist',
-    email: 'reception@henribomaresort.com',
+    email: 'reception@thehenriboma.com',
     role: 'Receptionist',
     status: 'active',
     lastLogin: '2025-08-19T17:00:00Z',
@@ -418,9 +418,9 @@ export const settingsData = {
   general: {
     resortName: 'The Henri Boma Resort & Cultural Heritage',
     address: '123 Heritage Lane, Cultural District, Nairobi, Kenya',
-    phone: '+254712345678',
-    email: 'info@henribomaresort.com',
-    website: 'https://henribomaresort.com',
+    phone: '+2547852595158',
+    email: 'henriresort@gmail.com',
+    website: 'https://thehenriboma.com/',
     currency: 'KSH',
     timezone: 'Africa/Nairobi',
     operatingHours: {
@@ -454,7 +454,7 @@ export const settingsData = {
       enabled: true,
       smtpHost: 'smtp.gmail.com',
       smtpPort: 587,
-      username: 'notifications@henribomaresort.com',
+      username: 'notifications@thehenriboma.com',
       password: 'your_password'
     },
     sms: {

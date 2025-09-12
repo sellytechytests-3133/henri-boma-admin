@@ -120,7 +120,7 @@ const MenuOrdersModule = () => {
                   </div>
                   <div>
                     <Label htmlFor="customerPhone">Phone Number</Label>
-                    <Input id="customerPhone" placeholder="+254712345678" />
+                    <Input id="customerPhone" placeholder="+2547852595158" />
                   </div>
                 </div>
                 <div>
